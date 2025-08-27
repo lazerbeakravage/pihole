@@ -1,0 +1,40 @@
+# +--------------------------+
+# |        WHITELIST         |
+# +--------------------------+
+
+# ----------------------------
+# 🛒 Shopping portals
+# ----------------------------
+slickdeals.net
+www.jdoqocy.com
+cj.dotomi.com
+www.emjcd.com
+goto.walmart.com        # cname to goto-walmart-com
+goto-walmart-com.ct.impactradius.com
+bestbuy.7tiv.net
+
+
+# ----------------------------
+# 📱 TikTok
+# ----------------------------
+mcs.tiktokw.us
+mssdk.tiktokw.us
+
+
+# ----------------------------
+# 📺 Sony TV Firmware
+# ----------------------------
+api.erabu.sony.tv
+
+
+# ----------------------------
+# 🐶 Covetrus Pharmacy (Oradell)
+# ----------------------------
+l.engage.covetruspharmacy.com
+l-em-covetruspharmacy-com.emarsys.net
+
+
+# ----------------------------
+# pokemongo.gamepress.gg
+# ----------------------------
+# resources.digital-cloud-west.medallia.com
